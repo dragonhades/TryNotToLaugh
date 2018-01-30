@@ -4,12 +4,12 @@ Users take damage when they laugh
 
 Screenshots:
 -------------
-![alt text](screenshots/1.jpg "")
-![alt text](screenshots/2.jpg "")
-![alt text](screenshots/3.jpg "")
-![alt text](screenshots/4.jpg "")
-![alt text](screenshots/5.jpg "")
-![alt text](screenshots/6.jpg "")
+![](screenshots/1.jpg "")
+![](screenshots/2.jpg "")
+![](screenshots/3.jpg "")
+![](screenshots/4.jpg "")
+![](screenshots/5.jpg "")
+![](screenshots/6.jpg "")
 
 Install:
 ---------
