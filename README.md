@@ -17,7 +17,7 @@ Screenshots:
 
 Install:
 ---------
- Package required (use under license): https://github.com/AdoHaha/EmotionProcessing
+ Package required (use under license): https://github.com/AdoHaha/EmotionProcessing -
  Download everything and run with Processing 3.3
   
 Note:
