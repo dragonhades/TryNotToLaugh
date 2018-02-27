@@ -4,7 +4,7 @@ Users take damage when they laugh
 
 Demo:
 -----
-  Youtube Link: https://www.youtube.com/watch?v=WJTW2zH-cSc
+  - Youtube Link: https://www.youtube.com/watch?v=WJTW2zH-cSc
   
 Screenshots:
 -------------
@@ -17,8 +17,8 @@ Screenshots:
 
 Install:
 ---------
- Package required (use under license): https://github.com/AdoHaha/EmotionProcessing -
- Download everything and run with Processing 3.3
+ - Package required (use under license): https://github.com/AdoHaha/EmotionProcessing
+ - Download everything and run with Processing 3.3
   
 Note:
 -----
