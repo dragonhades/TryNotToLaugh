@@ -26,10 +26,10 @@ Note:
 
 Credits: 
 --------
-https://github.com/AdoHaha/EmotionProcessing
-Yuky, Kevin for demoing
+  - https://github.com/AdoHaha/EmotionProcessing
+  - Yuky, Kevin for demoing
   
 Contact: 
 --------
-Any bug reports or concerns please contact jimmyshanofficial@gmail.com 
-Website: http://jimmyshan.com
+- Any bug reports or concerns please contact jimmyshanofficial@gmail.com 
+- Website: http://jimmyshan.com
