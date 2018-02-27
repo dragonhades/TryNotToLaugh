@@ -17,7 +17,8 @@ Screenshots:
 
 Install:
 ---------
-  To experience, please download application.windows32 and run emotion2.exe
+ Package required (use under license): https://github.com/AdoHaha/EmotionProcessing
+ Download everything and run with Processing 3.3
   
 Note:
 -----
@@ -25,6 +26,7 @@ Note:
 
 Credits: 
 --------
+https://github.com/AdoHaha/EmotionProcessing
 Yuky, Kevin for demoing
   
 Contact: 
